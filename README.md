@@ -65,3 +65,4 @@ e você pode voltar para buscá-la depois.
   vermelho para cada monstro vivo.
 - O título da janela mostra HP, nível e total de mortes.
 # monster_hunting_3d
+# monster_hunting_3d
